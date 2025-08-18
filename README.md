@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Peppo AI Video Generator
 
 **Advanced Text-to-Video Generation Web Application**
@@ -19,3 +20,6 @@ This application showcases a **complete AI video generation pipeline** with:
 - **Real-time Status Tracking:** WebSocket-style polling for live progress updates
 - **Production Architecture:** Scalable FastAPI backend with comprehensive monitoring
 - **Modern UI/UX:** Responsive,
+=======
+# Peppo_Assignment
+>>>>>>> 1684cb6eed7cc751cbed6bd4646abf1d5cdddd37
